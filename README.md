@@ -19,7 +19,7 @@ Hello! I'm KalkiRio, a passionate developer and open-source enthusiast. I love e
 ## 📫 How to Reach Me
 
 - GitHub: [@KalkiRio](https://github.com/KalkiRio)
-- Portfolio: https://kalkirio.github.io/Portfolio/
+- Portfolio: [Shatadru Roy]https://kalkirio.github.io/Portfolio/
 
 ## ⚡ Fun Fact
 
