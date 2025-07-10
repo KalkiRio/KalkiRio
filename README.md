@@ -2,7 +2,7 @@
 
 ## 🌱 About Me
 
-Hello! I'm KalkiRio, a passionate developer and open-source enthusiast. I love exploring new technologies, collaborating with the community, and building projects that solve real-world problems. My interests span across software development, automation, and cloud technologies.
+Hello! I'm Shatadru, a passionate developer and open-source enthusiast. I love exploring new technologies, collaborating with the community, and building projects that solve real-world problems. My interests span across software development, automation, and cloud technologies.
 
 ## 💻 Tech Stack
 
