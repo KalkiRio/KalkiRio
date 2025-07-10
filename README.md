@@ -1,4 +1,4 @@
-# 👋 Hi, I’m KalkiRio!
+# 👋 Hi, I’m Shatadru Roy!
 
 ## 🌱 About Me
 
