@@ -31,7 +31,6 @@ I love exploring new technologies, collaborating with the community, and buildin
 <h3 align="center">DjangoAPI</h3>
 <div align="center">  
 <a href="https://github.com/KalkiRio/Django_API" target="_blank">
-<img src="" width="50%" alt="DjangoAPI"/>
 </a>
 <br>
 <br>
@@ -78,11 +77,16 @@ I love exploring new technologies, collaborating with the community, and buildin
 </details>
 
 <details>
-  <summary><h3>Other</summary>
-    ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=mysql&logoColor=white)![Render](https://img.shields.io/badge/-Render-blue?style=for-the-badge&logo=mysql&logoColor=white)
-    ![GitHub Actions](https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=mysql&logoColor=white)![Linux](https://img.shields.io/badge/-Linux-blue?style=for-the-badge&logo=mysql&logoColor=white)
-    ![REST APIs](https://img.shields.io/badge/-REST-blue?style=for-the-badge&logo=mysql&logoColor=white)
+  <summary><h3>🛠️ Other</h3></summary>
+
+  ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+  ![Render](https://img.shields.io/badge/-Render-blue?style=for-the-badge&logo=render&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=github&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-blue?style=for-the-badge&logo=linux&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/-REST-blue?style=for-the-badge&logo=rest&logoColor=white)
+
 </details>
+
 
 
 ![](https://capsule-render.vercel.app/api?type=venom&height=150&text=📊%20GitHub%20Stats&fontSize=40&color=0:32CD32,100:006400&stroke=006400)
