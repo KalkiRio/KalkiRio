@@ -3,7 +3,7 @@
 <div align="center">
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://kalkirio.github.io/Portfolio)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shatadru-roy-23224a294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 </div>
 
